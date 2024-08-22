@@ -1,0 +1,128 @@
+[
+    {
+        "Customer": "John Doe",
+        "Email": "john.doe@example.com",
+        "Phone": "+1234567890",
+        "Joining Date": "2024-01-15"
+    },
+    {
+        "Customer": "Jane Smith",
+        "Email": "jane.smith@example.com",
+        "Phone": "+1987654321",
+        "Joining Date": "2023-11-20"
+    },
+    {
+        "Customer": "Bob Johnson",
+        "Email": "bob.j@example.com",
+        "Phone": "+1555555555",
+        "Joining Date": "2024-03-10"
+    },
+    {
+        "Customer": "Alice Brown",
+        "Email": "alice.b@example.com",
+        "Phone": "+1888888888",
+        "Joining Date": "2024-02-05"
+    },
+    {
+        "Customer": "Michael Clark",
+        "Email": "michael.c@example.com",
+        "Phone": "+1777777777",
+        "Joining Date": "2023-12-25"
+    },
+    {
+        "Customer": "Emily White",
+        "Email": "emily.w@example.com",
+        "Phone": "+1666666666",
+        "Joining Date": "2024-04-02"
+    },
+    {
+        "Customer": "David Lee",
+        "Email": "david.l@example.com",
+        "Phone": "+1444444444",
+        "Joining Date": "2023-10-10"
+    },
+    {
+        "Customer": "Sophia Wilson",
+        "Email": "sophia.w@example.com",
+        "Phone": "+1333333333",
+        "Joining Date": "2024-05-20"
+    },
+    {
+        "Customer": "James Taylor",
+        "Email": "james.t@example.com",
+        "Phone": "+1222222222",
+        "Joining Date": "2024-01-30"
+    },
+    {
+        "Customer": "Olivia Thomas",
+        "Email": "olivia.t@example.com",
+        "Phone": "+1999999999",
+        "Joining Date": "2023-11-15"
+    },
+    {
+        "Customer": "William Harris",
+        "Email": "william.h@example.com",
+        "Phone": "+1777777777",
+        "Joining Date": "2024-02-28"
+    },
+    {
+        "Customer": "Emma Martin",
+        "Email": "emma.m@example.com",
+        "Phone": "+1555555555",
+        "Joining Date": "2023-09-08"
+    },
+    {
+        "Customer": "Daniel Garcia",
+        "Email": "daniel.g@example.com",
+        "Phone": "+1444444444",
+        "Joining Date": "2024-04-15"
+    },
+    {
+        "Customer": "Ava Rodriguez",
+        "Email": "ava.r@example.com",
+        "Phone": "+1333333333",
+        "Joining Date": "2024-03-05"
+    },
+    {
+        "Customer": "Alexander Martinez",
+        "Email": "alexander.m@example.com",
+        "Phone": "+1222222222",
+        "Joining Date": "2023-12-10"
+    },
+    {
+        "Customer": "Mia Hernandez",
+        "Email": "mia.h@example.com",
+        "Phone": "+1999999999",
+        "Joining Date": "2024-05-01"
+    },
+    {
+        "Customer": "Ethan Lopez",
+        "Email": "ethan.l@example.com",
+        "Phone": "+1888888888",
+        "Joining Date": "2023-10-20"
+    },
+    {
+        "Customer": "David Kings",
+        "Email": "kings05@yahoo.com",
+        "Phone": "08018115555",
+        "Joining Date": "2000-06-03"
+    },
+    {
+        "Customer": "Charlotte Gonzalez",
+        "Email": "charlotte.g@example.com",
+        "Phone": "+1666666666",
+        "Joining Date": "2024-02-12"
+    },
+    {
+        "Customer": "Benjamin Perez",
+        "Email": "benjamin.p@example.com",
+        "Phone": "+1555555555",
+        "Joining Date": "2023-09-25"
+    },
+    {
+        "Customer": "Amelia Wilson",
+        "Email": "amelia.w@example.com",
+        "Phone": "+1333333333",
+        "Joining Date": "2024-04-10"
+    }
+]

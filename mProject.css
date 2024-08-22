@@ -1,0 +1,113 @@
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Action column styles */
+.action-column {
+    width: 150px;
+}
+
+/* Action buttons styles */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center vertically */
+}
+
+.action-buttons button {
+    padding: 8px 15px;
+    margin: 0 5px; /* Add margin between buttons */
+    background-color: #3498db; /* Blue */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.action-buttons button:hover {
+    background-color: #2980b9; /* Darker Blue */
+}
+
+/* Delivery status styles */
+.delivery-status {
+    font-weight: bold;
+    color: #337ab7;
+}
+
+.delivery-status.pending {
+    color: #f39c12;
+}
+
+.delivery-status.delivered {
+    color: #27ae60;
+}
+
+/* Select option styles */
+.select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.select:hover {
+    border-color: #3498db; /* Blue */
+}
+
+/* Edit form styles */
+.edit-form {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+}
+
+.edit-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.edit-form input[type="text"],
+.edit-form input[type="email"],
+.edit-form input[type="tel"],
+.edit-form input[type="date"],
+.edit-form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.edit-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.edit-form button:hover {
+    background-color: #45a049;
+}
